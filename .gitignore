@@ -1,3 +1,4 @@
 gitlab/data/
 gitlab/logs/
 gitlab/config/
+gitlab-runner/
